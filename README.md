@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/DikshaSanjida/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
