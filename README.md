@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3430-count-days-without-meetings](https://github.com/DikshaSanjida/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
@@ -35,5 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3430-count-days-without-meetings](https://github.com/DikshaSanjida/LeetCode/tree/master/3430-count-days-without-meetings) |
+## Greedy
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
