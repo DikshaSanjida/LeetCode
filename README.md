@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DikshaSanjida/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/DikshaSanjida/LeetCode/tree/master/0013-roman-to-integer) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DikshaSanjida/LeetCode/tree/master/0013-roman-to-integer) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Graph
 |  |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DikshaSanjida/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/DikshaSanjida/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
