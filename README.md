@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DikshaSanjida/LeetCode/tree/master/0001-two-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/DikshaSanjida/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3430-count-days-without-meetings](https://github.com/DikshaSanjida/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DikshaSanjida/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/DikshaSanjida/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
 |  |
 | ------- |
