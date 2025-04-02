@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DikshaSanjida/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DikshaSanjida/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/DikshaSanjida/LeetCode/tree/master/0217-contains-duplicate) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/DikshaSanjida/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DikshaSanjida/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/DikshaSanjida/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/DikshaSanjida/LeetCode/tree/master/0217-contains-duplicate) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/DikshaSanjida/LeetCode/tree/master/0217-contains-duplicate) |
 | [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3430-count-days-without-meetings](https://github.com/DikshaSanjida/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Greedy
