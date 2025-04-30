@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DikshaSanjida/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/DikshaSanjida/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/DikshaSanjida/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/DikshaSanjida/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/DikshaSanjida/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DikshaSanjida/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DikshaSanjida/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DikshaSanjida/LeetCode/tree/master/0067-add-binary) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/DikshaSanjida/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Trie
 |  |
 | ------- |
