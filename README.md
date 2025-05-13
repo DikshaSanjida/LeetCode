@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DikshaSanjida/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/DikshaSanjida/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DikshaSanjida/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DikshaSanjida/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/DikshaSanjida/LeetCode/tree/master/0242-valid-anagram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Graph
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DikshaSanjida/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/DikshaSanjida/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DikshaSanjida/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DikshaSanjida/LeetCode/tree/master/0067-add-binary) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DikshaSanjida/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Trie
 |  |
 | ------- |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DikshaSanjida/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Quickselect
 |  |
 | ------- |
