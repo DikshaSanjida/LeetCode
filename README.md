@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/DikshaSanjida/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/DikshaSanjida/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/DikshaSanjida/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DikshaSanjida/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/DikshaSanjida/LeetCode/tree/master/0242-valid-anagram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/DikshaSanjida/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Graph
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DikshaSanjida/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/DikshaSanjida/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Shortest Path
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DikshaSanjida/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
