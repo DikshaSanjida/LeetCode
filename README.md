@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DikshaSanjida/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/DikshaSanjida/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DikshaSanjida/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DikshaSanjida/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/DikshaSanjida/LeetCode/tree/master/0049-group-anagrams) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DikshaSanjida/LeetCode/tree/master/0011-container-with-most-water) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DikshaSanjida/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DikshaSanjida/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DikshaSanjida/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DikshaSanjida/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DikshaSanjida/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DikshaSanjida/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
