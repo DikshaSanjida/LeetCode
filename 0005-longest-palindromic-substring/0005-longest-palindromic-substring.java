@@ -21,7 +21,10 @@ class Solution {
         while (L >= 0 && R < s.length() && s.charAt(L) == s.charAt(R)) {
             L--;
             R++;
+
+        
         }
         return R - L - 1;
+        
     }
 }
