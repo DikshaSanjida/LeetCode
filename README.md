@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DikshaSanjida/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/DikshaSanjida/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2681-put-marbles-in-bags](https://github.com/DikshaSanjida/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Math
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DikshaSanjida/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/DikshaSanjida/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DikshaSanjida/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DikshaSanjida/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/DikshaSanjida/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DikshaSanjida/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DikshaSanjida/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
